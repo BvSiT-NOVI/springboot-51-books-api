@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f409a53-8a35-45bd-9340-2132450c5aad" name="Default Changelist" comment="Fixed using PasswordEncoder when creating or updating an user">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books_api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/books_api.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\BvS\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1iUlVDULAYb4dXu7MLpR6YsqNcU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,6 +40,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.preview.features.used" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/nl/gettoworktogether" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -63,7 +72,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/nl/gettoworktogether/books_api/service" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BooksApiApplication">
     <configuration name="BooksApiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nl.gettoworktogether.books_api.BooksApiApplication" />
       <module name="books_api" />
@@ -77,6 +86,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooksApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="books_api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nl.gettoworktogether.books_api.BooksApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BooksApiApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -86,6 +118,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601970073990</updated>
+      <workItem from="1625669062950" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="Small fix in project structure">
       <created>1602165625111</created>
@@ -110,6 +143,9 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
